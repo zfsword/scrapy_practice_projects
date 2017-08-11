@@ -1,0 +1,721 @@
+1502097650381	geckodriver	INFO	geckodriver 0.18.0
+1502097650387	geckodriver	INFO	Listening on 127.0.0.1:50195
+1502097652456	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502097709408	geckodriver	INFO	geckodriver 0.18.0
+1502097709413	geckodriver	INFO	Listening on 127.0.0.1:50338
+1502097711440	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502097746267	geckodriver	INFO	geckodriver 0.18.0
+1502097746272	geckodriver	INFO	Listening on 127.0.0.1:50435
+1502097748316	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502097996134	geckodriver	INFO	geckodriver 0.18.0
+1502097996142	geckodriver	INFO	Listening on 127.0.0.1:51926
+1502098023624	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502098105954	geckodriver	INFO	geckodriver 0.18.0
+1502098105959	geckodriver	INFO	Listening on 127.0.0.1:52443
+1502098132475	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502100661799	geckodriver	INFO	geckodriver 0.18.0
+1502100661805	geckodriver	INFO	Listening on 127.0.0.1:60133
+1502100663854	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502101260398	geckodriver	INFO	geckodriver 0.18.0
+1502101260404	geckodriver	INFO	Listening on 127.0.0.1:61412
+1502101262466	geckodriver::marionette	INFO	Starting browser F:\Program Files\Nightly\firefox.exe with args ["-marionette"]
+1502101264811	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 4324] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+Extension error: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/ExtensionParent.jsm :: _onExtensionBrowser :: line 342"  data: no] undefined 342
+[[Exception stack
+_onExtensionBrowser@resource://gre/modules/ExtensionParent.jsm:342:7
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:59:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:254:55
+emit@resource://gre/modules/ExtensionUtils.jsm:253:20
+build@chrome://extensions/content/ext-backgroundPage.js:37:5
+async*onManifestEntry@chrome://extensions/content/ext-backgroundPage.js:66:12
+asyncEmitManifestEntry@resource://gre/modules/ExtensionCommon.jsm:927:14
+async*runManifest@resource://gre/modules/Extension.jsm:1046:23
+_startup@resource://gre/modules/Extension.jsm:1198:13
+async*startup@resource://gre/modules/Extension.jsm:1120:27
+startup/this.startupPromise<@resource://gre/modules/LegacyExtensionsUtils.jsm:188:7
+startup@resource://gre/modules/LegacyExtensionsUtils.jsm:140:27
+start@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:114:10
+handleStartup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:107:12
+promise callback*startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:75:23
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4396:20
+startup@resource://gre/modules/addons/XPIProvider.jsm:2230:13
+callProvider@resource://gre/modules/AddonManager.jsm:265:12
+_startProvider@resource://gre/modules/AddonManager.jsm:735:5
+startup@resource://gre/modules/AddonManager.jsm:902:9
+startup@resource://gre/modules/AddonManager.jsm:3086:5
+observe@jar:file:///F:/Program%20Files/Nightly/omni.ja!/components/addonManager.js:65:9
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:61:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:254:55
+emit@resource://gre/modules/ExtensionUtils.jsm:253:20
+build@chrome://extensions/content/ext-backgroundPage.js:37:5
+async*onManifestEntry@chrome://extensions/content/ext-backgroundPage.js:66:12
+asyncEmitManifestEntry@resource://gre/modules/ExtensionCommon.jsm:927:14
+async*runManifest@resource://gre/modules/Extension.jsm:1046:23
+_startup@resource://gre/modules/Extension.jsm:1198:13
+async*startup@resource://gre/modules/Extension.jsm:1120:27
+startup/this.startupPromise<@resource://gre/modules/LegacyExtensionsUtils.jsm:188:7
+startup@resource://gre/modules/LegacyExtensionsUtils.jsm:140:27
+start@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:114:10
+handleStartup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:107:12
+promise callback*startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:75:23
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4396:20
+startup@resource://gre/modules/addons/XPIProvider.jsm:2230:13
+callProvider@resource://gre/modules/AddonManager.jsm:265:12
+_startProvider@resource://gre/modules/AddonManager.jsm:735:5
+startup@resource://gre/modules/AddonManager.jsm:902:9
+startup@resource://gre/modules/AddonManager.jsm:3086:5
+observe@jar:file:///F:/Program%20Files/Nightly/omni.ja!/components/addonManager.js:65:9
+]]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+1502101300190	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 88: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3708] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502101328200	geckodriver	INFO	geckodriver 0.18.0
+1502101328205	geckodriver	INFO	Listening on 127.0.0.1:61539
+1502101330261	geckodriver::marionette	INFO	Starting browser F:\Program Files\Nightly\firefox.exe with args ["-marionette"]
+1502101331376	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+Extension error: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/ExtensionParent.jsm :: _onExtensionBrowser :: line 342"  data: no] undefined 342
+[[Exception stack
+_onExtensionBrowser@resource://gre/modules/ExtensionParent.jsm:342:7
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:59:14
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:254:55
+emit@resource://gre/modules/ExtensionUtils.jsm:253:20
+build@chrome://extensions/content/ext-backgroundPage.js:37:5
+async*onManifestEntry@chrome://extensions/content/ext-backgroundPage.js:66:12
+asyncEmitManifestEntry@resource://gre/modules/ExtensionCommon.jsm:927:14
+async*runManifest@resource://gre/modules/Extension.jsm:1046:23
+_startup@resource://gre/modules/Extension.jsm:1198:13
+async*startup@resource://gre/modules/Extension.jsm:1120:27
+startup/this.startupPromise<@resource://gre/modules/LegacyExtensionsUtils.jsm:188:7
+startup@resource://gre/modules/LegacyExtensionsUtils.jsm:140:27
+start@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:114:10
+handleStartup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:107:12
+promise callback*startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:75:23
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4396:20
+startup@resource://gre/modules/addons/XPIProvider.jsm:2230:13
+callProvider@resource://gre/modules/AddonManager.jsm:265:12
+_startProvider@resource://gre/modules/AddonManager.jsm:735:5
+startup@resource://gre/modules/AddonManager.jsm:902:9
+startup@resource://gre/modules/AddonManager.jsm:3086:5
+observe@jar:file:///F:/Program%20Files/Nightly/omni.ja!/components/addonManager.js:65:9
+Current stack
+runSafeSyncWithoutClone@resource://gre/modules/ExtensionUtils.jsm:61:129
+emit/promises<@resource://gre/modules/ExtensionUtils.jsm:254:55
+emit@resource://gre/modules/ExtensionUtils.jsm:253:20
+build@chrome://extensions/content/ext-backgroundPage.js:37:5
+async*onManifestEntry@chrome://extensions/content/ext-backgroundPage.js:66:12
+asyncEmitManifestEntry@resource://gre/modules/ExtensionCommon.jsm:927:14
+async*runManifest@resource://gre/modules/Extension.jsm:1046:23
+_startup@resource://gre/modules/Extension.jsm:1198:13
+async*startup@resource://gre/modules/Extension.jsm:1120:27
+startup/this.startupPromise<@resource://gre/modules/LegacyExtensionsUtils.jsm:188:7
+startup@resource://gre/modules/LegacyExtensionsUtils.jsm:140:27
+start@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:114:10
+handleStartup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:107:12
+promise callback*startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///F:/Program%20Files/Nightly/browser/features/screenshots@mozilla.org.xpi!/bootstrap.js:75:23
+callBootstrapMethod@resource://gre/modules/addons/XPIProvider.jsm:4396:20
+startup@resource://gre/modules/addons/XPIProvider.jsm:2230:13
+callProvider@resource://gre/modules/AddonManager.jsm:265:12
+_startProvider@resource://gre/modules/AddonManager.jsm:735:5
+startup@resource://gre/modules/AddonManager.jsm:902:9
+startup@resource://gre/modules/AddonManager.jsm:3086:5
+observe@jar:file:///F:/Program%20Files/Nightly/omni.ja!/components/addonManager.js:65:9
+]]
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 217: TypeError: frameLoader.tabParent is null
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 4165: TypeError: browser.frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+[Parent 5292] WARNING: Failed to launch tab subprocess: file z:/build/build/src/ipc/glue/GeckoChildProcessHost.cpp, line 604
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 370: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIScriptSecurityManager.getLoadContextCodebasePrincipal]
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 243: TypeError: frameLoader.tabParent is null
+1502101358742	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: chrome://global/content/bindings/remote-browser.xml, line 291: TypeError: tabParent is null
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.jsm, line 88: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 468] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502106395060	geckodriver	INFO	geckodriver 0.18.0
+1502106395065	geckodriver	INFO	Listening on 127.0.0.1:64019
+1502106397120	geckodriver::marionette	INFO	Starting browser F:\Program Files\Firefox\firefox.exe with args ["-marionette"]
+1502106400521	Marionette	INFO	Listening on port 64031
+1502106400740	Marionette	WARN	TLS certificate errors will be ignored for this session
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:616:3
+sendError@chrome://marionette/content/listener.js:650:3
+dispatch/</<@chrome://marionette/content/listener.js:379:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:920:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+[GPU 4164] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502106824530	geckodriver	INFO	geckodriver 0.18.0
+1502106824535	geckodriver	INFO	Listening on 127.0.0.1:64662
+1502106826590	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+[GPU 3404] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502106829575	Marionette	INFO	Listening on port 64668
+1502106829901	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 3404] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5108] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502106883785	geckodriver	INFO	geckodriver 0.18.0
+1502106883790	geckodriver	INFO	Listening on 127.0.0.1:64691
+1502106885831	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502106888976	Marionette	INFO	Listening on port 64697
+[GPU 1944] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502106889442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502106973688	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502107519998	geckodriver	INFO	geckodriver 0.18.0
+1502107520004	geckodriver	INFO	Listening on 127.0.0.1:65092
+1502107522055	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502107525034	Marionette	INFO	Listening on port 65098
+1502107525170	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502108560451	geckodriver	INFO	geckodriver 0.18.0
+1502108560459	geckodriver	INFO	Listening on 127.0.0.1:50630
+1502108562515	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502108565815	Marionette	INFO	Listening on port 50636
+1502108566131	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4668] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502108751018	geckodriver	INFO	geckodriver 0.18.0
+1502108751027	geckodriver	INFO	Listening on 127.0.0.1:52048
+1502108753056	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+[GPU 960] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502108756073	Marionette	INFO	Listening on port 52060
+1502108756351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502108841502	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 960] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3328] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3328] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502109707280	geckodriver	INFO	geckodriver 0.18.0
+1502109707285	geckodriver	INFO	Listening on 127.0.0.1:52711
+1502109709345	geckodriver::marionette	INFO	Starting browser F:\Program Files\Firefox\firefox.exe with args ["-marionette"]
+1502109712462	Marionette	INFO	Listening on port 52717
+[GPU 332] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502109712970	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502109797425	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[GPU 332] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5264] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5264] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502193397084	geckodriver	INFO	geckodriver 0.18.0
+1502193397109	geckodriver	INFO	Listening on 127.0.0.1:60129
+1502193399313	geckodriver::marionette	INFO	Starting browser F:\Program Files\Firefox\firefox.exe with args ["-marionette"]
+1502193405400	Marionette	INFO	Listening on port 60135
+[GPU 3168] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502193405543	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 3168] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5880] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5880] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502241183876	geckodriver	INFO	geckodriver 0.18.0
+1502241183903	geckodriver	INFO	Listening on 127.0.0.1:51623
+1502241185924	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502241190464	Marionette	INFO	Listening on port 51629
+[GPU 3996] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502241191149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502241287011	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:616:3
+sendError@chrome://marionette/content/listener.js:650:3
+dispatch/</<@chrome://marionette/content/listener.js:379:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:920:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+[GPU 3996] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502241332632	geckodriver	INFO	geckodriver 0.18.0
+1502241332637	geckodriver	INFO	Listening on 127.0.0.1:51747
+1502241334694	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+[GPU 3100] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502241337314	Marionette	INFO	Listening on port 51755
+1502241337811	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[GPU 3100] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2504] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502241512193	geckodriver	INFO	geckodriver 0.18.0
+1502241512198	geckodriver	INFO	Listening on 127.0.0.1:51912
+1502241514248	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502241517058	Marionette	INFO	Listening on port 51918
+[GPU 2768] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502241517376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502241602610	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502255857107	geckodriver	INFO	geckodriver 0.18.0
+1502255857115	geckodriver	INFO	Listening on 127.0.0.1:54050
+1502255859135	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502255862385	Marionette	INFO	Listening on port 54056
+[GPU 2384] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502255862754	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GPU 2384] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502255946568	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502255946575	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 3736] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3736] WARNING: pipe error: 109: file c:/Build/53.0/pgo/x64/firefox-53.0.2/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1502260321583	geckodriver	INFO	geckodriver 0.18.0
+1502260321589	geckodriver	INFO	Listening on 127.0.0.1:56362
+1502260323632	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502260326847	Marionette	INFO	Listening on port 56368
+1502260327284	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502260336961	Marionette	INFO	New connections will no longer be accepted
+1502260523959	geckodriver	INFO	geckodriver 0.18.0
+1502260523967	geckodriver	INFO	Listening on 127.0.0.1:56452
+1502260526023	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502260529004	Marionette	INFO	Listening on port 56458
+1502260529269	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502260536387	Marionette	INFO	New connections will no longer be accepted
+1502264791669	geckodriver	INFO	geckodriver 0.18.0
+1502264791675	geckodriver	INFO	Listening on 127.0.0.1:60157
+1502264793717	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502264796617	Marionette	INFO	Listening on port 60163
+1502264796887	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502264806519	Marionette	INFO	New connections will no longer be accepted
+1502269589623	geckodriver	INFO	geckodriver 0.18.0
+1502269589629	geckodriver	INFO	Listening on 127.0.0.1:54738
+1502269591696	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502269594658	Marionette	INFO	Listening on port 54744
+1502269594913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502269956208	geckodriver	INFO	geckodriver 0.18.0
+1502269956213	geckodriver	INFO	Listening on 127.0.0.1:54976
+1502269958270	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502269961452	Marionette	INFO	Listening on port 54982
+1502269961881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502269965210	Marionette	INFO	New connections will no longer be accepted
+1502278298549	geckodriver	INFO	geckodriver 0.18.0
+1502278298555	geckodriver	INFO	Listening on 127.0.0.1:50064
+1502278300585	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502278303489	Marionette	INFO	Listening on port 50070
+1502278303755	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502278307539	Marionette	INFO	New connections will no longer be accepted
+1502279126808	geckodriver	INFO	geckodriver 0.18.0
+1502279126814	geckodriver	INFO	Listening on 127.0.0.1:50214
+1502279128861	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502279131745	Marionette	INFO	Listening on port 50220
+1502279132035	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502279140553	Marionette	INFO	New connections will no longer be accepted
+1502280555188	geckodriver	INFO	geckodriver 0.18.0
+1502280555195	geckodriver	INFO	Listening on 127.0.0.1:50832
+1502280557236	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502280560145	Marionette	INFO	Listening on port 50838
+1502280560363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502280564057	Marionette	INFO	New connections will no longer be accepted
+1502280714597	geckodriver	INFO	geckodriver 0.18.0
+1502280714605	geckodriver	INFO	Listening on 127.0.0.1:50939
+1502280716634	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502280719391	Marionette	INFO	Listening on port 50945
+1502280719798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502280723716	Marionette	INFO	New connections will no longer be accepted
+1502281456171	geckodriver	INFO	geckodriver 0.18.0
+1502281456179	geckodriver	INFO	Listening on 127.0.0.1:51543
+1502281458220	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502281460990	Marionette	INFO	Listening on port 51559
+1502281461343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502281471511	Marionette	INFO	New connections will no longer be accepted
+1502281551314	geckodriver	INFO	geckodriver 0.18.0
+1502281551322	geckodriver	INFO	Listening on 127.0.0.1:51912
+1502281553388	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502281556385	Marionette	INFO	Listening on port 51918
+1502281556601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502281563571	Marionette	INFO	New connections will no longer be accepted
+1502281670485	geckodriver	INFO	geckodriver 0.18.0
+1502281670491	geckodriver	INFO	Listening on 127.0.0.1:52027
+1502281672543	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502281675253	Marionette	INFO	Listening on port 52033
+1502281675710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502281679417	Marionette	INFO	New connections will no longer be accepted
+1502282140647	geckodriver	INFO	geckodriver 0.18.0
+1502282140652	geckodriver	INFO	Listening on 127.0.0.1:52344
+1502282142708	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502282145451	Marionette	INFO	Listening on port 52350
+1502282145837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502282150626	Marionette	INFO	New connections will no longer be accepted
+1502282916520	geckodriver	INFO	geckodriver 0.18.0
+1502282916528	geckodriver	INFO	Listening on 127.0.0.1:52647
+1502282918569	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502282921361	Marionette	INFO	Listening on port 52653
+1502282921708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502282933257	Marionette	INFO	New connections will no longer be accepted
+1502282997932	geckodriver	INFO	geckodriver 0.18.0
+1502282997939	geckodriver	INFO	Listening on 127.0.0.1:52769
+1502282999975	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502283002814	Marionette	INFO	Listening on port 52775
+1502283003137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502283009867	Marionette	INFO	New connections will no longer be accepted
+1502284388380	geckodriver	INFO	geckodriver 0.18.0
+1502284388386	geckodriver	INFO	Listening on 127.0.0.1:53162
+1502284390436	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502284393346	Marionette	INFO	Listening on port 53168
+1502284393610	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502284403922	Marionette	INFO	New connections will no longer be accepted
+1502284847974	geckodriver	INFO	geckodriver 0.18.0
+1502284847981	geckodriver	INFO	Listening on 127.0.0.1:53422
+1502284850032	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502284852910	Marionette	INFO	Listening on port 53428
+1502284853222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502284867092	Marionette	INFO	New connections will no longer be accepted
+1502284891316	geckodriver	INFO	geckodriver 0.18.0
+1502284891324	geckodriver	INFO	Listening on 127.0.0.1:53553
+1502284893364	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502284896311	Marionette	INFO	Listening on port 53559
+1502284896533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502284902637	Marionette	INFO	New connections will no longer be accepted
+1502318388860	geckodriver	INFO	geckodriver 0.18.0
+1502318388874	geckodriver	INFO	Listening on 127.0.0.1:49597
+1502318390870	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502318394752	Marionette	INFO	Listening on port 49603
+1502318395084	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502318402168	Marionette	INFO	New connections will no longer be accepted
+1502318493681	geckodriver	INFO	geckodriver 0.18.0
+1502318493686	geckodriver	INFO	Listening on 127.0.0.1:49674
+1502318495751	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502318498438	Marionette	INFO	Listening on port 49680
+1502318498860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502318505803	Marionette	INFO	New connections will no longer be accepted
+1502318569767	geckodriver	INFO	geckodriver 0.18.0
+1502318569772	geckodriver	INFO	Listening on 127.0.0.1:49747
+1502318571839	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502318574373	Marionette	INFO	Listening on port 49753
+1502318574949	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502318585699	Marionette	INFO	New connections will no longer be accepted
+1502325292591	geckodriver	INFO	geckodriver 0.18.0
+1502325292598	geckodriver	INFO	Listening on 127.0.0.1:63584
+1502325294642	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502325298215	Marionette	INFO	Listening on port 63616
+1502325298268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502325310338	Marionette	INFO	New connections will no longer be accepted
+1502325714027	geckodriver	INFO	geckodriver 0.18.0
+1502325714033	geckodriver	INFO	Listening on 127.0.0.1:50885
+1502325716078	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502325719055	Marionette	INFO	Listening on port 50905
+1502325719300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502325730345	Marionette	INFO	New connections will no longer be accepted
+1502335867591	geckodriver	INFO	geckodriver 0.18.0
+1502335867597	geckodriver	INFO	Listening on 127.0.0.1:57939
+1502335869635	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502335872545	Marionette	INFO	Listening on port 57945
+1502335872794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.dajieimg.com/??/up/job-v2/js/jquery.menu-aim.55129.js,/js/jquery.buildpage.59105.js,/js/jquery.macscroll.58772.js,/js/jquery.pluckpad.62620.js,/up/sz/js/lib/slide.62120.js,/up/sz/js/page_fulltime.62631.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://assets.dajieimg.com/static/libs/street/street.59909.js, line 1: TypeError: e is undefined
+JavaScript error: https://www.dajie.com/, line 24: ReferenceError: $ is not defined
+JavaScript error: https://www.dajie.com/, line 99: ReferenceError: $ is not defined
+JavaScript error: https://www.dajie.com/, line 349: ReferenceError: $ is not defined
+JavaScript error: https://www.dajie.com/, line 3333: ReferenceError: $ is not defined
+JavaScript error: https://assets.dajieimg.com/up/login-lay/js/reg-guide-dialog.62641.js, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://www.dajie.com/, line 3340: ReferenceError: dj is not defined
+JavaScript error: https://assets.dajieimg.com/up/autoheader/js/guanke-bottom-float.58682.js, line 1: ReferenceError: $ is not defined
+JavaScript error: https://assets.dajieimg.com/js/pv.62623.js, line 1: ReferenceError: $ is not defined
+1502335908587	Marionette	INFO	New connections will no longer be accepted
+1502335960187	geckodriver	INFO	geckodriver 0.18.0
+1502335960193	geckodriver	INFO	Listening on 127.0.0.1:58007
+1502335962246	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502335965071	Marionette	INFO	Listening on port 58013
+1502335965403	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502335973450	Marionette	INFO	New connections will no longer be accepted
+1502347652690	geckodriver	INFO	geckodriver 0.18.0
+1502347652696	geckodriver	INFO	Listening on 127.0.0.1:59732
+1502347654740	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502347657696	Marionette	INFO	Listening on port 59738
+1502347657935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502347675162	Marionette	INFO	New connections will no longer be accepted
+1502347762364	geckodriver	INFO	geckodriver 0.18.0
+1502347762371	geckodriver	INFO	Listening on 127.0.0.1:59867
+1502347764416	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502347767362	Marionette	INFO	Listening on port 59873
+1502347767647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502347779311	Marionette	INFO	New connections will no longer be accepted
+1502348292468	geckodriver	INFO	geckodriver 0.18.0
+1502348292474	geckodriver	INFO	Listening on 127.0.0.1:60281
+1502348294540	geckodriver::marionette	INFO	Starting browser F:\Program Files\FireFox\firefox.exe with args ["-marionette"]
+1502348297417	Marionette	INFO	Listening on port 60287
+1502348297672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502348305743	Marionette	INFO	New connections will no longer be accepted
+1502348395537	geckodriver	INFO	geckodriver 0.18.0
+1502348395544	geckodriver	INFO	Listening on 127.0.0.1:60407
+1502348397608	geckodriver::marionette	INFO	Starting browser F:\Program Files\Iceweasel\App\Iceweasel.exe with args ["-marionette"]
+1502348398446	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from F:\Program Files\Iceweasel\Profiles\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+[Child 5004] WARNING: pipe error: 109: file d:/works/ff-release/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5004] WARNING: pipe error: 109: file d:/works/ff-release/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1502348401191	Marionette	INFO	Listening on port 60413
+1502348401217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502348401238	Marionette	INFO	Listening on port 60413
+1502348401265	Marionette	DEBUG	loaded listener.js
+1502348401297	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+Unable to read VR Path Registry from F:\Program Files\Iceweasel\Profiles\LocalAppData\Temp\Fx\openvr\openvrpaths.vrpath
+JavaScript error: resource://gre/modules/SafeBrowsing.jsm, line 77: TypeError: Cc['@mozilla.org/url-classifier/listmanager;1'] is undefined
+1502348402467	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502348402468	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502348404474	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.dajie.com/"
+1502348405299	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.dajie.com/"
+1502348405562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348405722	Marionette	DEBUG	loaded listener.js
+1502348407479	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348408261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348409186	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348409950	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348410762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502348411039	Marionette	INFO	New connections will no longer be accepted
+1502356980270	geckodriver	INFO	geckodriver 0.18.0
+1502356980276	geckodriver	INFO	Listening on 127.0.0.1:55722
+1502356982319	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502356985232	Marionette	INFO	Listening on port 55728
+1502356985485	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502356993036	Marionette	INFO	New connections will no longer be accepted
+1502357182915	geckodriver	INFO	geckodriver 0.18.0
+1502357182924	geckodriver	INFO	Listening on 127.0.0.1:55888
+1502357184973	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502357187977	Marionette	INFO	Listening on port 55894
+1502357188234	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502357194852	Marionette	INFO	New connections will no longer be accepted
+1502358259691	geckodriver	INFO	geckodriver 0.18.0
+1502358259697	geckodriver	INFO	Listening on 127.0.0.1:56279
+1502358261745	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502358264704	Marionette	INFO	Listening on port 56285
+1502358264961	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502358268742	Marionette	INFO	New connections will no longer be accepted
+1502358315343	geckodriver	INFO	geckodriver 0.18.0
+1502358315349	geckodriver	INFO	Listening on 127.0.0.1:56391
+1502358317406	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502358320194	Marionette	INFO	Listening on port 56397
+1502358320512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502358323991	Marionette	INFO	New connections will no longer be accepted
+1502358586022	geckodriver	INFO	geckodriver 0.18.0
+1502358586030	geckodriver	INFO	Listening on 127.0.0.1:56597
+1502358588063	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502358590954	Marionette	INFO	Listening on port 56603
+1502358591219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502358598451	Marionette	INFO	New connections will no longer be accepted
+1502359751606	geckodriver	INFO	geckodriver 0.18.0
+1502359751612	geckodriver	INFO	Listening on 127.0.0.1:56953
+1502359753653	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502359756690	Marionette	INFO	Listening on port 56959
+1502359756936	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502359770204	Marionette	INFO	New connections will no longer be accepted
+1502367283353	geckodriver	INFO	geckodriver 0.18.0
+1502367283363	geckodriver	INFO	Listening on 127.0.0.1:57228
+1502367285408	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502367288379	Marionette	INFO	Listening on port 57234
+1502367288645	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502367295121	Marionette	INFO	New connections will no longer be accepted
+1502367727427	geckodriver	INFO	geckodriver 0.18.0
+1502367727435	geckodriver	INFO	Listening on 127.0.0.1:57315
+1502367729457	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502367732421	Marionette	INFO	Listening on port 57322
+1502367732669	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502367751423	Marionette	INFO	New connections will no longer be accepted
+1502367808728	geckodriver	INFO	geckodriver 0.18.0
+1502367808737	geckodriver	INFO	Listening on 127.0.0.1:57458
+1502367810761	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502367813570	Marionette	INFO	Listening on port 57464
+1502367813883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502367822638	Marionette	INFO	New connections will no longer be accepted
+1502367919170	geckodriver	INFO	geckodriver 0.18.0
+1502367919175	geckodriver	INFO	Listening on 127.0.0.1:57579
+1502367921223	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502367923916	Marionette	INFO	Listening on port 57585
+1502367924366	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502367932296	Marionette	INFO	New connections will no longer be accepted
+1502371033929	geckodriver	INFO	geckodriver 0.18.0
+1502371033935	geckodriver	INFO	Listening on 127.0.0.1:58279
+1502371035983	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502371039035	Marionette	INFO	Listening on port 58285
+1502371039250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502371058238	Marionette	INFO	New connections will no longer be accepted
+1502371108334	geckodriver	INFO	geckodriver 0.18.0
+1502371108340	geckodriver	INFO	Listening on 127.0.0.1:58420
+1502371110390	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502371113490	Marionette	INFO	Listening on port 58426
+1502371113814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502371131650	Marionette	INFO	New connections will no longer be accepted
+1502406402109	geckodriver	INFO	geckodriver 0.18.0
+1502406402135	geckodriver	INFO	Listening on 127.0.0.1:53080
+1502406404143	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502406407787	Marionette	INFO	Listening on port 53086
+1502406408261	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502406430449	Marionette	INFO	New connections will no longer be accepted
+1502406484423	geckodriver	INFO	geckodriver 0.18.0
+1502406484430	geckodriver	INFO	Listening on 127.0.0.1:53204
+1502406486482	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502406489255	Marionette	INFO	Listening on port 53210
+1502406489595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502406560109	Marionette	INFO	New connections will no longer be accepted
+1502410699406	geckodriver	INFO	geckodriver 0.18.0
+1502410699413	geckodriver	INFO	Listening on 127.0.0.1:54035
+1502410701445	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502410704210	Marionette	INFO	Listening on port 54041
+1502410704561	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502410711564	Marionette	INFO	New connections will no longer be accepted
+1502410726606	geckodriver	INFO	geckodriver 0.18.0
+1502410726612	geckodriver	INFO	Listening on 127.0.0.1:54139
+1502410728651	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502410731401	Marionette	INFO	Listening on port 54145
+1502410731775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502410776089	Marionette	INFO	New connections will no longer be accepted
+1502411234414	geckodriver	INFO	geckodriver 0.18.0
+1502411234420	geckodriver	INFO	Listening on 127.0.0.1:56291
+1502411236472	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502411239288	Marionette	INFO	Listening on port 56297
+1502411239590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502411245883	Marionette	INFO	New connections will no longer be accepted
+1502431056830	geckodriver	INFO	geckodriver 0.18.0
+1502431056870	geckodriver	INFO	Listening on 127.0.0.1:60776
+1502431058826	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502431062170	Marionette	INFO	Listening on port 60782
+1502431062511	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502431073313	Marionette	INFO	New connections will no longer be accepted
+1502431111597	geckodriver	INFO	geckodriver 0.18.0
+1502431111604	geckodriver	INFO	Listening on 127.0.0.1:60873
+1502431113664	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502431116642	Marionette	INFO	Listening on port 60879
+1502431116931	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502431202335	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1502431255480	Marionette	INFO	Ceased listening
+1502431691402	geckodriver	INFO	geckodriver 0.18.0
+1502431691410	geckodriver	INFO	Listening on 127.0.0.1:61059
+1502431693458	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502431696701	Marionette	INFO	Listening on port 61065
+1502431697074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502431740504	Marionette	INFO	New connections will no longer be accepted
+1502432292484	geckodriver	INFO	geckodriver 0.18.0
+1502432292495	geckodriver	INFO	Listening on 127.0.0.1:61400
+1502432294541	geckodriver::marionette	INFO	Starting browser F:\Program Files\firefox\firefox.exe with args ["-marionette"]
+1502432297661	Marionette	INFO	Listening on port 61406
+1502432298170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502432334270	Marionette	INFO	New connections will no longer be accepted
